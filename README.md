@@ -6,5 +6,6 @@ My Small bussiness network created in GNS3
 ![image](https://github.com/MarkDrexel/network-lab/assets/160628525/ba578d4c-db05-4e6e-bb83-7c252ef57708)
 ---
 **Once i had a network started I added an active directory server along with user and administrator accounts using the server manager tool, after creating the users I converted it into a domain so i can have the workstation and any of the follwoing servers use a login from the accounts on the AD server**
-![image](https://github.com/MarkDrexel/network-lab/assets/160628525/4aba4553-2fb3-4654-bf1b-a392db23e5bb)
+![image](https://github.com/MarkDrexel/network-lab/assets/160628525/a04d3b81-bf87-4940-98fd-7a6839a7145b)
+
 ---
