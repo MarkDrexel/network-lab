@@ -7,5 +7,7 @@ My Small bussiness network created in GNS3
 ---
 **Once i had a network started I added an active directory server along with user and administrator accounts using the server manager tool, after creating the users I converted it into a domain so i can have the workstation and any of the follwoing servers use a login from the accounts on the AD server**
 ![image](https://github.com/MarkDrexel/network-lab/assets/160628525/a04d3b81-bf87-4940-98fd-7a6839a7145b)
-
+---
+**To add more functionality I added a Internet Information Services server and added it to the domain so it can handle internet traffic routing**
+![image](https://github.com/MarkDrexel/network-lab/assets/160628525/aa432e73-84ac-49d9-9a8d-a6b13f0cb0d5)
 ---
