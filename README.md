@@ -11,3 +11,8 @@ My Small bussiness network created in GNS3
 **To add more functionality I added a Internet Information Services server and added it to the domain so it can handle internet traffic routing**
 ![image](https://github.com/MarkDrexel/network-lab/assets/160628525/aa432e73-84ac-49d9-9a8d-a6b13f0cb0d5)
 ---
+**I added a Ubunto with a DokuWiki for a central access to information website**
+![image](https://github.com/MarkDrexel/network-lab/assets/160628525/a4748390-1027-4de1-96a2-41a34a61f768)
+---
+**Added a FTP server with administration access to FTP protocols only to aid in backups**
+![image](https://github.com/MarkDrexel/network-lab/assets/160628525/98dd196e-ec8c-41db-8bed-a84853a4d5ac)
